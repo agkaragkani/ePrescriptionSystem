@@ -22,7 +22,7 @@ The application provides a menu-driven interface with the following functionalit
 ### 2. Prescription Creation
 **Link Entities:** Associates a specific Patient and Doctor to a new prescription.
 **Medicine Selection:** Adds up to 4 medicines per prescription.
-**Validations:** Checks if the Patient, Doctor, and Medicines exist in the system before creation, returning error messages if they do not[cite: 54, 56, 58].
+**Validations:** Checks if the Patient, Doctor, and Medicines exist in the system before creation, returning error messages if they do not.
 **Automation:** Automatically calculates the total cost and assigns a unique system ID.
 
 ### 3. Search & Reporting
