@@ -4,7 +4,7 @@ A Java-based console application developed for the **Structured Programming (PLH
 
 ## 📋 Overview
 
-The goal of this project was to design and implement an object-oriented system that handles the lifecycle of medical prescriptions without using external databases.The system operates entirely in **main memory**, utilizing object associations to link patients, doctors, and medicines[cite: 70].
+The goal of this project was to design and implement an object-oriented system that handles the lifecycle of medical prescriptions without using external databases.The system operates entirely in **main memory**, utilizing object associations to link patients, doctors, and medicines.
 
 **Course:** PLH 102 - Structured Programming 
 **Institution:** Technical University of Crete 
